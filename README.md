@@ -1,7 +1,7 @@
 # WWDC2020-IntoFourDimensions
 WWDC2020 Swift Student Challenge[Accepted] - IntoFourDimensions playground book
 
-For more information，I make a video here(in Chinese) [VIDEO](https://www.bilibili.com/video/BV1wK4y147Kg)
+For more information, I make a [video](https://www.bilibili.com/video/BV1wK4y147Kg) here(in Chinese)
 
 ### About
 
