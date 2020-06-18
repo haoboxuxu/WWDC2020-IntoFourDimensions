@@ -23,3 +23,8 @@ To compute geometric spaces and connect the points in space, I wrote code about 
 
 This playground book has used a lot of matrix and mathematical knowledge, especially matrix multiplication, and the code of mathematical calculations are all written by me. I spent a lot of time writing my own swift matrix operation code to use in this playground book. It also includes some basic computer vision knowledge about graphics rendering techniques.
 
+![](./imgs/1.png)
+
+![](./imgs/2.png)
+
+![](./imgs/3.png)
