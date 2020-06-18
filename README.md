@@ -1,6 +1,8 @@
 # WWDC2020-IntoFourDimensions
 WWDC2020 Swift Student Challenge[Accepted] - IntoFourDimensions playground book
 
+For more information，I make a video here(in Chinese) [VIDEO](https://www.bilibili.com/video/BV1wK4y147Kg)
+
 ### About
 
 This is a playground book about dimensions and visualization. I use SpriteKit, SceneKit and ARKit as graphical display frameworks. It will be a wonderful exploration beyond your imagination. 
